@@ -1,0 +1,8 @@
+{
+  "name": "Ironblock",
+  "description": "A gritty 2D top-down horror zombie shooter set in a dark abandoned prison with dynamic raycasted flashlight and bullet path-traced lighting, caliber-scaled recoil, and BO2 Zombies weapons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
